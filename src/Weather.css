@@ -26,8 +26,8 @@
 }
 
 .Weather img {
-    width: 64px;
-    height: 64px;
+  width: 64px;
+  height: 64px;
   float: left;
   margin-right: 10px;
 }
@@ -45,6 +45,5 @@
   font-weight: 400;
   position: relative;
   top: -34px;
-  margin-left: 5px;
   line-height: 1;
 }
