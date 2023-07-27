@@ -25,9 +25,7 @@
   list-style: none;
 }
 
-.Weather canvas {
-  width: 64px;
-  height: 64px;
+.Weather .float-left {
   float: left;
   margin-right: 10px;
 }
